@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T05:13:01.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="LybsFgvSBgftCo5F00GD" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-30T05:14:39.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="Wt9GuldaIEcBFHaHBwCx" version="20.5.1" type="github">
   <diagram id="vLukXMw4S9EmxMwoRz_H" name="Page-1">
-    <mxGraphModel dx="1375" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1618" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,8 +152,8 @@
         <mxCell id="3Bgmacmm1tid3VBmhgc9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Bgmacmm1tid3VBmhgc9-51" target="3Bgmacmm1tid3VBmhgc9-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Bgmacmm1tid3VBmhgc9-51" value="Update Status ke Database Server Telah Mengambil Beras" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="970" width="120" height="60" as="geometry" />
+        <mxCell id="3Bgmacmm1tid3VBmhgc9-51" value="Update Jumlah Ambil Beras, Sisa Stok Beras dan Status Pengambilan Beras ke Database Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="970" width="166" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3Bgmacmm1tid3VBmhgc9-54" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="1060" width="106" height="50" as="geometry" />
