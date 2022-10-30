@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T04:17:40.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" version="20.5.1" etag="ufgdLTyNvQV2N2PbfU-U" type="github"><diagram id="Y-8BdIGGZ-oPEiZBj1dF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-30T04:45:50.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="Plo8mTuxZHVwn6_7FpW-" version="20.5.1" type="github">
+  <diagram id="Y-8BdIGGZ-oPEiZBj1dF" name="Page-1">
+    <mxGraphModel dx="2500" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-1" target="02tbfq9u-_3Zm6iRDD8l-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-1" value="Cari Jaringan Wi-Fi Tersedia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346.62" y="180" width="131.38" height="60.4" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-3" target="02tbfq9u-_3Zm6iRDD8l-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-3" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352.12" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.474;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-5" target="02tbfq9u-_3Zm6iRDD8l-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-5" value="ESP8266 Set Mode AP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346.62" y="270" width="131" height="60.23" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-7" target="02tbfq9u-_3Zm6iRDD8l-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-7" value="Masuk Webserver&lt;br&gt;IP : 192.168.4.1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364.25" y="370" width="100.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-9" target="02tbfq9u-_3Zm6iRDD8l-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-14" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="02tbfq9u-_3Zm6iRDD8l-13">
+          <mxGeometry x="-0.0009" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.5" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="415" y="550" />
+              <mxPoint x="415" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-49" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="02tbfq9u-_3Zm6iRDD8l-48">
+          <mxGeometry x="-0.2391" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-9" value="Berhasil Masuk Webserver" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="450" width="117" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-21" target="02tbfq9u-_3Zm6iRDD8l-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-21" value="Input SSID dan Password Jaringan Yang Tersedia" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="570.0000000000001" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-23" target="02tbfq9u-_3Zm6iRDD8l-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-23" value="Verifikasi SSID dan Password Jaringan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.25" y="670.0000000000001" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="509" y="870" />
+              <mxPoint x="509" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-34" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="02tbfq9u-_3Zm6iRDD8l-33">
+          <mxGeometry x="0.0313" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-25" target="02tbfq9u-_3Zm6iRDD8l-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-25" value="Validasi SSID&amp;nbsp; dan Password" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="750.0000000000001" width="131.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-37" target="02tbfq9u-_3Zm6iRDD8l-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-37" value="Terhubung Jaringan Internet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-52" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="02tbfq9u-_3Zm6iRDD8l-55" target="02tbfq9u-_3Zm6iRDD8l-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02tbfq9u-_3Zm6iRDD8l-55" value="Simpan SSID dan Password di EEPROM ESP8266" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
